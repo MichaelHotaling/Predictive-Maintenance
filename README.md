@@ -14,10 +14,6 @@ Using this data, we can create a predictive model that can send us alarms when o
 - [One Year Industrial Component Degradation](https://www.kaggle.com/inIT-OWL/one-year-industrial-component-degradation):
 The Vega shrink-wrapper from OCME is deployed in large production lines in the food and beverage industry. The machine groups loose bottles or cans into set package sizes, wraps them in plastic film and then heat-shrinks the plastic film to combine them into a package. The plastic film is fed into the machine from large spools and is then cut to the length needed to wrap the film around a pack of goods. The cutting assembly is an important component of the machine to meet the high availability target. Therefore, the blade needs to be set-up and maintained properly. Furthermore, the blade can not be inspected visually during operation due to the blade being enclosed in a metal housing and its fast rotation speed. Monitoring the cutting blades degradation will increase the machines reliability and reduce unexpected downtime caused by failed cuts.
 
-- [Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan):
-The N-CMAPSS dataset provides synthetic run-to-failure degradation trajectories of a fleet of turbofan engines with unknown initial health states subject to real flight conditions. The N-CMAPSS dataset contains eight sets of data from 128 units and seven different failure modes affecting the flow and efficiency of all the
-rotating sub-components
-
 
 The following topics will be covered in this project:
 * Importing the Data
